@@ -16,7 +16,7 @@ score = 0
 enemies = ['001', '002', '003', '004', 'bomb']
 
 #----------------------Inicialize pygame and create window
-WIDTH = 890
+WIDTH = 990
 HEIGHT = 680
 FPS = 24
 pygame.init()
